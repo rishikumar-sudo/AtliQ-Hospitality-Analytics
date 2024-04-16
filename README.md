@@ -31,5 +31,10 @@ Dashboard Home Page:
 ![Screenshot (112)](https://github.com/rishikumar-sudo/AtliQ-Hospitality-Analytics/blob/main/AtliQ%20Hospitality%20Dashboard%20mockup.jpg)
 
 
+## Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-yadav/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=flat-square&logo=wordpress&logoColor=white)](https://codebasics.io/portfolio/Rishi-Kumar)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rishikumar.rk099@gmail.com)
 Your thoughts and feedback are highly appreciated. Let's continue this data-driven journey together!
 
